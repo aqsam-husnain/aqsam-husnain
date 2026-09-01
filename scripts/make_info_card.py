@@ -73,7 +73,7 @@ def main():
 <circle cx="52" cy="20" r="5" fill="#28c840"/>
 
 <!-- Terminal Title -->
-<text x="{CARD_W / 2}" y="24" fill="#888" font-family="{FONT}" font-size="10" text-anchor="middle">The Cipher Stack</text>
+<text x="{CARD_W / 2}" y="24" fill="#888" font-family="{FONT}" font-size="10" text-anchor="middle">Aqsam Husnain</text>
 ''')
 
     for i, (key, val) in enumerate(INFO_LINES):
