@@ -3,10 +3,10 @@
 <table>
   <tr>
     <td>
-      <img src="./hxni-ascii.svg" width="370" alt="ASCII Portrait"/>
+      <img src="./hxni-ascii.svg?v=2" width="370" alt="ASCII Portrait"/>
     </td>
     <td>
-      <img src="./info-card.svg" width="490" alt="Info Card"/>
+      <img src="./info-card.svg?v=2" width="490" alt="Info Card"/>
     </td>
   </tr>
 </table>
