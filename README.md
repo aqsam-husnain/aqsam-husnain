@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="./hxni-ascii.svg?v=2" width="370" alt="ASCII Portrait"/>
+      <img src="./aqsam-ascii.svg?v=2" width="370" alt="ASCII Portrait"/>
     </td>
     <td>
       <img src="./info-card.svg?v=2" width="490" alt="Info Card"/>
@@ -130,7 +130,7 @@
 <h3><code>🏆 Achievements</code></h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aqsam-husnain&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" width="700"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aqsam-husnain&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&row=1" width="800"/>
 </p>
 
 ---
@@ -138,13 +138,13 @@
 <h3><code>📊 GitHub Stats</code></h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aqsam-husnain&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=D4AF37&text_color=c0c0c0&icon_color=D4AF37&border_color=2a2a2a&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aqsam-husnain&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=D4AF37&text_color=c0c0c0&icon_color=D4AF37&border_color=2a2a2a&hide_border=false&count_private=true&include_all_commits=true" width="48%" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aqsam-husnain&theme=dark&background=0d0d0d&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=c0c0c0&sideNums=D4AF37&dates=666666&border=2a2a2a" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=aqsam-husnain&theme=dark&background=0d0d0d&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=c0c0c0&sideNums=D4AF37&dates=666666&border=2a2a2a" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqsam-husnain&layout=compact&theme=dark&bg_color=0d0d0d&title_color=D4AF37&text_color=c0c0c0&border_color=2a2a2a" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqsam-husnain&layout=compact&theme=dark&bg_color=0d0d0d&title_color=D4AF37&text_color=c0c0c0&border_color=2a2a2a&count_private=true&langs_count=8" width="40%" />
 </p>
 
 ---
