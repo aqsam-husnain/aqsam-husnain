@@ -24,6 +24,8 @@ jobs:
         run: pip install -r scripts/requirements-ci.txt
 
       - name: Fetch contribution data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/fetch_contributions.py
 
       - name: Render heatmap SVG
