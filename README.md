@@ -45,7 +45,7 @@
 
 <div align="center">
   <a href="https://github.com/aqsam-husnain/tablecraft-qr-menu">
-    <img src="./images/tablecraft-restaurant-showcase.jpg" width="100%" alt="TableCraft Restaurant Showcase - September 2024 Release" />
+    <img src="./images/tablecraft-localhost-menu.jpg" width="100%" alt="TableCraft Restaurant Web Platform - Localhost Browser Screenshot (September 2024)" />
   </a>
 </div>
 
@@ -61,32 +61,32 @@
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
       </p>
       <p>
-        Production-grade luxury restaurant website & digital table management platform engineered with sub-second page loads, zero e-commerce cart overhead, and specialized modules for fine dining hospitality.
+        Production-grade luxury restaurant website & digital table management platform running locally on Next.js 14. Engineered with sub-second page loads, zero e-commerce cart overhead, and specialized modules for fine dining hospitality.
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/aqsam-husnain/tablecraft-qr-menu">
-        <img src="./images/tablecraft-booking-banquet.jpg" width="100%" alt="TableCraft Online Table Booking & Banquet Facility Module" />
+        <img src="./images/tablecraft-localhost-reservations.jpg" width="100%" alt="TableCraft Online Table Booking - Localhost Browser Screenshot" />
       </a>
-      <p><sub><b>Online Table Booking & Banquet Facility Module</b><br/>Real-time reservation system with date/time pickers, seating preferences, and private dining hall capacity configurations.</sub></p>
+      <p><sub><b>Online Table Booking Engine (Localhost Preview)</b><br/>Real-time reservation system with date/time pickers (September 2024), party size selectors, and seating area preferences.</sub></p>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/aqsam-husnain/tablecraft-qr-menu">
-        <img src="./images/tablecraft-gallery-mobile.jpg" width="100%" alt="TableCraft Responsive Mobile Menu & Ambiance Gallery" />
+        <img src="./images/tablecraft-localhost-banquet.jpg" width="100%" alt="TableCraft Banquet Facility & Catering - Localhost Browser Screenshot" />
       </a>
-      <p><sub><b>Responsive Mobile Menu & Digital Menu Kit</b><br/>Dynamic categorized menu dishes, downloadable PDF Menu Kit brochure, culinary photo gallery, and visiting hours schedule.</sub></p>
+      <p><sub><b>Banquet Facility & Private Dining Suites</b><br/>Event hall showcase (up to 120 guests), tiered catering packages (Gold/Platinum), and direct PDF Banquet Kit download.</sub></p>
     </td>
   </tr>
   <tr>
     <td colspan="2">
       <b>Key Architectural Highlights:</b>
       <ul>
-        <li><b>Digital Menu & Menu Kit:</b> Filterable course categories (Antipasti, Primi, Secondi, Dolci) with dietary tags and instant PDF Menu Kit download.</li>
-        <li><b>Frictionless Table Booking:</b> Interactive date/time reservations with party size configuration (no cart or checkout bloat).</li>
-        <li><b>Banquet & Catering Showcase:</b> Private event inquiry forms, capacity specs (up to 120 guests), and tiered catering packages.</li>
-        <li><b>Visiting Hours & Contact:</b> Clear operating hours, Google Maps venue integration, and click-to-call mobile actions.</li>
+        <li><b>Dynamic Menu & Downloadable Menu Kit:</b> Filterable course categories (Antipasti, Primi, Secondi, Dolci) with dietary tags and instant PDF Menu Kit download.</li>
+        <li><b>Frictionless Table Booking:</b> Interactive date/time reservations with party size configuration (no shopping cart bloat).</li>
+        <li><b>Banquet Facility & Catering:</b> Private event inquiry forms, capacity specs (up to 120 guests), and tiered catering menus.</li>
+        <li><b>Visiting Hours & Contact:</b> Clear operating schedule, venue address, and click-to-call direct contact.</li>
       </ul>
       <p align="right"><a href="https://github.com/aqsam-husnain/tablecraft-qr-menu"><b>Explore Repository & Code →</b></a></p>
     </td>
