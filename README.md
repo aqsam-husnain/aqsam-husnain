@@ -41,9 +41,75 @@
 
 ---
 
+<h3><code>🍽️ Spotlight: Restaurant & Hospitality Web Platform</code></h3>
+
+<div align="center">
+  <a href="https://github.com/aqsam-husnain/tablecraft-qr-menu">
+    <img src="./images/tablecraft-restaurant-showcase.jpg" width="100%" alt="TableCraft Restaurant Showcase - September 2024 Release" />
+  </a>
+</div>
+
+<table width="100%">
+  <tr>
+    <td colspan="2">
+      <h3><a href="https://github.com/aqsam-husnain/tablecraft-qr-menu">🍽️ TableCraft — Fine Dining & Restaurant Architecture</a></h3>
+      <p>
+        <a href="https://github.com/aqsam-husnain/tablecraft-qr-menu"><img src="https://img.shields.io/badge/Release_Era-September_2024-D4AF37?style=for-the-badge" /></a>
+        <img src="https://img.shields.io/badge/Next.js_14-black?style=for-the-badge&logo=next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+      </p>
+      <p>
+        Production-grade luxury restaurant website & digital table management platform engineered with sub-second page loads, zero e-commerce cart overhead, and specialized modules for fine dining hospitality.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/aqsam-husnain/tablecraft-qr-menu">
+        <img src="./images/tablecraft-booking-banquet.jpg" width="100%" alt="TableCraft Online Table Booking & Banquet Facility Module" />
+      </a>
+      <p><sub><b>Online Table Booking & Banquet Facility Module</b><br/>Real-time reservation system with date/time pickers, seating preferences, and private dining hall capacity configurations.</sub></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/aqsam-husnain/tablecraft-qr-menu">
+        <img src="./images/tablecraft-gallery-mobile.jpg" width="100%" alt="TableCraft Responsive Mobile Menu & Ambiance Gallery" />
+      </a>
+      <p><sub><b>Responsive Mobile Menu & Digital Menu Kit</b><br/>Dynamic categorized menu dishes, downloadable PDF Menu Kit brochure, culinary photo gallery, and visiting hours schedule.</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <b>Key Architectural Highlights:</b>
+      <ul>
+        <li><b>Digital Menu & Menu Kit:</b> Filterable course categories (Antipasti, Primi, Secondi, Dolci) with dietary tags and instant PDF Menu Kit download.</li>
+        <li><b>Frictionless Table Booking:</b> Interactive date/time reservations with party size configuration (no cart or checkout bloat).</li>
+        <li><b>Banquet & Catering Showcase:</b> Private event inquiry forms, capacity specs (up to 120 guests), and tiered catering packages.</li>
+        <li><b>Visiting Hours & Contact:</b> Clear operating hours, Google Maps venue integration, and click-to-call mobile actions.</li>
+      </ul>
+      <p align="right"><a href="https://github.com/aqsam-husnain/tablecraft-qr-menu"><b>Explore Repository & Code →</b></a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
 <h3><code>🚀 Featured Projects</code></h3>
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/aqsam-husnain/tablecraft-qr-menu">🍽️ TableCraft Restaurant Platform</a></h4>
+      <p><sub>Production restaurant website featuring digital menu kits, frictionless online table booking, banquet inquiry forms & live kitchen order stream.</sub></p>
+      <p><img src="https://img.shields.io/badge/Release_Era-September_2024-D4AF37?style=flat-square" /> <img src="https://img.shields.io/badge/Next.js_14-black?style=flat-square&logo=next.js" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/aqsam-husnain/cravez-food-delivery">🍔 Cravez Food Discovery</a></h4>
+      <p><sub>Full-stack food ordering platform featuring restaurant discovery, cuisine filtering, dynamic menu configuration & live delivery tracking.</sub></p>
+      <p><img src="https://img.shields.io/badge/Release_Era-July_2024-D4AF37?style=flat-square" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux" /></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/aqsam-husnain/nexus-ai-studio">⚡ Nexus AI Studio</a></h4>
