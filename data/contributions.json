@@ -6,14 +6,9 @@
     "longest_streak": 16,
     "best_day": "2026-05-25",
     "best_day_count": 20,
-    "last_updated": "2026-09-28T13:49:23.886263Z"
+    "last_updated": "2026-09-29T12:48:42.238903Z"
   },
   "days": [
-    {
-      "date": "2025-09-29",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-09-30",
       "count": 0,
@@ -1833,6 +1828,11 @@
       "date": "2026-09-28",
       "count": 1,
       "level": 1
+    },
+    {
+      "date": "2026-09-29",
+      "count": 0,
+      "level": 0
     }
   ]
 }
