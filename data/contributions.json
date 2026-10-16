@@ -1,19 +1,14 @@
 {
   "username": "aqsam-husnain",
   "metrics": {
-    "total_contributions": 525,
+    "total_contributions": 539,
     "current_streak": 10,
     "longest_streak": 16,
-    "best_day": "2026-10-09",
-    "best_day_count": 31,
-    "last_updated": "2026-10-15T11:24:11.858608Z"
+    "best_day": "2026-10-15",
+    "best_day_count": 45,
+    "last_updated": "2026-10-16T11:18:21.291374Z"
   },
   "days": [
-    {
-      "date": "2025-10-16",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-10-17",
       "count": 0,
@@ -937,12 +932,12 @@
     {
       "date": "2026-04-19",
       "count": 8,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-04-20",
       "count": 9,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-04-21",
@@ -952,7 +947,7 @@
     {
       "date": "2026-04-22",
       "count": 8,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-04-23",
@@ -1072,12 +1067,12 @@
     {
       "date": "2026-05-16",
       "count": 9,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-05-17",
       "count": 8,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-05-18",
@@ -1117,7 +1112,7 @@
     {
       "date": "2026-05-25",
       "count": 20,
-      "level": 3
+      "level": 2
     },
     {
       "date": "2026-05-26",
@@ -1442,7 +1437,7 @@
     {
       "date": "2026-07-29",
       "count": 8,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-07-30",
@@ -1587,7 +1582,7 @@
     {
       "date": "2026-08-27",
       "count": 10,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-08-28",
@@ -1757,7 +1752,7 @@
     {
       "date": "2026-09-30",
       "count": 22,
-      "level": 3
+      "level": 2
     },
     {
       "date": "2026-10-01",
@@ -1767,12 +1762,12 @@
     {
       "date": "2026-10-02",
       "count": 9,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-10-03",
       "count": 18,
-      "level": 3
+      "level": 2
     },
     {
       "date": "2026-10-04",
@@ -1787,27 +1782,27 @@
     {
       "date": "2026-10-06",
       "count": 9,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-10-07",
       "count": 9,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-10-08",
       "count": 10,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-10-09",
       "count": 31,
-      "level": 4
+      "level": 3
     },
     {
       "date": "2026-10-10",
       "count": 11,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-10-11",
@@ -1831,8 +1826,13 @@
     },
     {
       "date": "2026-10-15",
-      "count": 31,
+      "count": 45,
       "level": 4
+    },
+    {
+      "date": "2026-10-16",
+      "count": 0,
+      "level": 0
     }
   ]
 }
