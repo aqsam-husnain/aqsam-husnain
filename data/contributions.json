@@ -1,19 +1,14 @@
 {
   "username": "aqsam-husnain",
   "metrics": {
-    "total_contributions": 717,
-    "current_streak": 3,
+    "total_contributions": 716,
+    "current_streak": 0,
     "longest_streak": 18,
     "best_day": "2026-10-15",
     "best_day_count": 45,
-    "last_updated": "2026-11-20T15:23:10.708834Z"
+    "last_updated": "2026-11-21T14:36:14.564573Z"
   },
   "days": [
-    {
-      "date": "2025-11-21",
-      "count": 1,
-      "level": 1
-    },
     {
       "date": "2025-11-22",
       "count": 0,
@@ -1831,6 +1826,11 @@
     },
     {
       "date": "2026-11-20",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-11-21",
       "count": 0,
       "level": 0
     }
